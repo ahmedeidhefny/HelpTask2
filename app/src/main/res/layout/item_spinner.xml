@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fontFamily="sans-serif-light"
+    android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+    android:textColor="@color/colorTextHint"
+    android:textStyle="normal"
+    android:padding="@dimen/margin_padding_size_small"
+    android:textAllCaps="false">
+
+</TextView>

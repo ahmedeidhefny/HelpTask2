@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فورم تسجيل</string>
+    <string name="register">تسجيل</string>
+    <string name="full_name">الاسم كامل</string>
+    <string name="password">كلمه المرور</string>
+    <string name="code_number">123456</string>
+    <string name="email">الاميل</string>
+    <string name="terms_label">بالضغط على التسجيل فأنت توافق على</string>
+    <string name="terms_text">الشروط والاحكام</string>
+    <string name="change_language">تغير اللغه</string>
+    <string name="country">الدوله</string>
+    <string name="city">المدينه</string>
+    <string name="code">كود</string>
+    <string name="massage_error_fullName">ادخل الاسم</string>
+    <string name="massage_error_password">ادخل كلمه المرور</string>
+    <string name="massage_error_email">ادخل الايميل</string>
+    <string name="massage_error_code">اختار الكود</string>
+    <string name="massage_error_code_spinner">اختار الكود</string>
+    <string name="massage_error_country_spinner">اختار دولتك</string>
+    <string name="massage_error_city_spinner">اختار مدينتك</string>
+</resources>

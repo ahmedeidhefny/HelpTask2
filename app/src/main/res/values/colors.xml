@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ec3232</color>
+    <color name="colorPrimaryDark">#ec3232</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorTextRead">#ff0000</color>
+    <color name="colorTextWhite">#ffffff</color>
+    <color name="colorTextHint">#434343</color>
+    <color name="colorBtnPressed">#b72424</color>
+
+    <color name="hint_spinner">#A9A9A9</color>
+</resources>

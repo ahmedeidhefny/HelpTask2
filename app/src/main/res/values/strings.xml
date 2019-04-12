@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Register Task</string>
+
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="password">Password</string>
+    <string name="code_number">123456</string>
+    <string name="email">Email</string>
+    <string name="terms_label">By clicking register you agree to</string>
+    <string name="terms_text">Terms and Conditions</string>
+    <string name="change_language">Change Language</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="code">Code</string>
+    <string name="massage_error_fullName">Enter FullName</string>
+    <string name="massage_error_password">Enter Password</string>
+    <string name="massage_error_email">Enter Email</string>
+    <string name="massage_error_code">Select Code</string>
+    <string name="massage_error_code_spinner">Select The Code</string>
+    <string name="massage_error_country_spinner">Select Your Country</string>
+    <string name="massage_error_city_spinner">Select Your City</string>
+</resources>
